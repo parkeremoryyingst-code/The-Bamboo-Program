@@ -1,0 +1,6 @@
+{
+  "name": "Bamboo Sustainability Initiative",
+  "description": "The official landing page for the Bamboo Sustainability Initiative, featuring interactive facts, research timeline, and environmental resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
